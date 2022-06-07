@@ -10,3 +10,6 @@ library) to get financial data for project by making 3rd party(Tiingo
 and Alpha vantage) REST API calls using Spring REST Template
 and applying OOP abstraction using java interfaces and Exception
 Handling.
+
+# BRIEF
+A visual stock portfolio analyzer.  QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients.  During the course of this Micro-Experience, the developer:  Implemented the core logic of the portfolio manager and published it as a library.  Refactored code to add support for multiple stock quote services.  Improved application stability and performance.  Skills Learned:  Java, REST API, Jackson, Interfaces, Code Refactoring, Gradle
